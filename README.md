@@ -1,3 +1,3 @@
 # dog-spotter-ai
 
-犬を識別するAI！  
+🐩🐩🐩 犬を識別するAI！  
