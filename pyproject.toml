@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "dog-spotter-ai"
+version = "0.1.0"
+description = "🐩🐩🐩 犬を識別するAI！"
+authors = ["osawa-koki <koki@osawa.dev>"]
+license = "Apache-2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
